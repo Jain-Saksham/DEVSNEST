@@ -1,0 +1,13 @@
+body{
+    background-color: powderblue;
+    background-image: url(back.jpg);
+}
+
+.logo{
+    float: right;
+}
+
+a{
+    color: crimson;
+    font: italic;
+}
